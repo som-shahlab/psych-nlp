@@ -1,4 +1,4 @@
-# Computational RepresentationS of Therapist Language (CRSTL)
+<h1 align="center">Computational RepresentationS of<br/>Therapist Language<br/> (CRSTL 🔮) </h1>
 
 ![Banner Image](doc/banner.jpg)
 
@@ -8,7 +8,7 @@
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
-2. [Generating CRSTL](#2-generating-crstl)
+2. [Generating CRSTL 🔮](#2-generating-crstl)
 3. [Citation](#3-citation)
 
 ## 1. Introduction
