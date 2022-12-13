@@ -1,4 +1,6 @@
-# Computational RepresentationS of Therapist Language (CRSTL)
+<h1 align="center">Computational RepresentationS of<br/>Therapist Language<br/> (CRSTL 🔮) </h1>
+
+![Banner Image](doc/banner.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://tldrlegal.com/license/mit-license)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-383)
@@ -6,7 +8,7 @@
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
-2. [Generating CRSTL](#2-generating-crstl)
+2. [Generating CRSTL 🔮](#2-generating-crstl)
 3. [Citation](#3-citation)
 
 ## 1. Introduction
