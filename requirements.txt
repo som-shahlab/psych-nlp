@@ -1,0 +1,5 @@
+pandas>=1.2.0
+matplotlib>=3.3.2
+numpy>=1.19.2
+seaborn>=0.11.1
+tqdm>=4.55.0
